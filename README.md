@@ -8,8 +8,8 @@
 -      SQL
 -      HTML
 -      CSS
-      </ul>
-       </li>
+     </ul>
+     </li>
 - 📫 How to reach me - Snehakarmakaroff@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: is there none~
