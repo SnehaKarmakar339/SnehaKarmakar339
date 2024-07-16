@@ -5,6 +5,8 @@
      <ul>
 -      C
 -      Python
+-      SQL
+-      HTML
 -      CSS
       </ul>
        </li>
