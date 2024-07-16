@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @SnehaKarmakar339
 - 👀 I’m interested in exploring new technologies and learning them.
 - 🌱 I’m currently learning
+     <li>
+     <ul>
 -      C
 -      Python
 -      CSS
+      </ul>
+       </li>
 - 📫 How to reach me - Snehakarmakaroff@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: is there none~
