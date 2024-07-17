@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning
      <li>
      <ul>
-      C
+-      C
 -      Python
 -      SQL
 -      HTML
